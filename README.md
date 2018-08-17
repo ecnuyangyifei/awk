@@ -1,4 +1,4 @@
-#Small tools developed by awk.
+# Small tools developed by awk.
 ## removeComments
-### remove lines contains **//**
+remove lines contains **//**
 
